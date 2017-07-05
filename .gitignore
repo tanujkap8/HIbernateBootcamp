@@ -1,0 +1,14 @@
+*.iml
+*.ipr
+out/
+*.iws
+target
+stacktrace.log
+*.swp
+*.log
+.idea
+web-app
+.asscache
+.slcache
+.slcache/
+
